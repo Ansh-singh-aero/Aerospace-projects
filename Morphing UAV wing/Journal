@@ -8,3 +8,12 @@ this is a true professional level analysis. i need this to be the breakthrough p
 
 
 im heading out soon, i need to get some inspiration on the material and do some reading up on compliant mechanisms. 
+
+## Entry 2 (Sunday 24th may 2026 4:52pm)
+
+I have just learned about Xfoil, Xflr5 and i believe these will be integral to my design and testing phase. 
+from my research it seems as though Xfoil (ver 6.99) is the lightweight, harder to use less GUi, more Fortran, oldschool, profesionally used version 
+wherease Xflr8 is mor esutdent friendly and can test a whole wing (3d) as comapred to xfoils 2d 
+
+some more things to keep in mind is Pplot and pxplot. they seem to be the visually important things, pplot is for drag polars, lift curves and performance plots wherease
+pxplot ios for pressure coeff pltos, boundary layer visualisttion. going to start working on it now. 
