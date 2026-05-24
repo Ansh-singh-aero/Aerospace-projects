@@ -1,1 +1,34 @@
 
+UAV purpose
+
+What is this wing optimized for?
+
+endurance?
+slow flight?
+maneuverability?
+short takeoff?
+surveillance?
+
+Probably:
+
+low-speed efficient flight
+high lift at low Reynolds number
+morphing for adaptive aerodynamics
+
+# Design Requirements
+
+## Flight Regime
+- Low speed UAV
+- Cruise speed: 15–25 m/s
+- Reynolds number target: 100k–300k
+
+## Wing Goals
+- High lift-to-drag ratio
+- Lightweight structure
+- Smooth morphing surface
+- Minimize flow separation
+
+## Constraints
+- Wingspan < 2 m
+- Must be manufacturable
+- Morphing mechanism must not excessively weaken structure
