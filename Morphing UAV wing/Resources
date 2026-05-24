@@ -1,20 +1,23 @@
 # learn about
 
-boundary layer behavior
-stall at low Reynolds numbers
-thin airfoils
-cambered airfoils
-flow separation
-For low-speed UAVs, investigate:
-Selig airfoils
-NACA 4-digit airfoils
-Eppler airfoils
-Good beginner candidates:
-S1223
-NACA 4412
-E423
-Clark Y
-figure out XFOIL. 
+- boundary layer behavior
+- stall at low Reynolds numbers
+- thin airfoils
+- cambered airfoils
+- flow separation
+
+
+## For low-speed UAVs, investigate:
+- Selig airfoils
+- NACA 4-digit airfoils
+- Eppler airfoils
+## Good beginner candidates:
+- S1223
+- NACA 4412
+- E423
+- Clark Y
+
+
 ## XFOIL WORKFLOW
 1. load up an airfoil -> Load an existing coordinate file or generate one
 2. Refine the mesh -> Enter the PPAR or PANE menus to adjust and refine panel nodes along the chord.
