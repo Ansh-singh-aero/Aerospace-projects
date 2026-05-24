@@ -8,3 +8,6 @@ The goal is for this to be a all in one project demonstrating my proficiency in
 - technical report
 - GitHub repo
 
+the Research question is as follows 
+
+## Design and analysis of a morphing UAV wing for low-speed aerodynamic efficiency.
