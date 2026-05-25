@@ -17,3 +17,9 @@ wherease Xflr8 is mor esutdent friendly and can test a whole wing (3d) as comapr
 
 some more things to keep in mind is Pplot and pxplot. they seem to be the visually important things, pplot is for drag polars, lift curves and performance plots wherease
 pxplot ios for pressure coeff pltos, boundary layer visualisttion. going to start working on it now. 
+
+
+## entry 3 (monday 25th may 2026 1:55pm) 
+
+i have learned how to run a sequence of angle of attacks on a naca profile in a viscous environment and extract the Cl and Cd etc for said profile,
+next goal for today is to comapre with other naca profils
