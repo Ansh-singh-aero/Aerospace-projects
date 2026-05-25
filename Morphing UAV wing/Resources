@@ -23,3 +23,22 @@
 2. Refine the mesh -> Enter the PPAR or PANE menus to adjust and refine panel nodes along the chord.
 3. set the conditions -> Go to the OPER menu, set viscous flow conditions via visc [Reynolds number] and define your angle of attack alfa to compute.
 4. plot/export -> Plot the pressure coefficient (\(C_{p}\)) or surface velocity (\(Q\)), and save the calculated aerodynamic data as a polar file.
+
+## Xfoil navigation 
+4 main menus, 
+1.  " .oper"
+2.  " .MDES"
+3.  " .Qdes" 
+4.  " .GDES"
+
+okay we can  ust start off by saying 
+> naca 2412 
+
+## coding 
+oper puts u in operating mode 
+v puts u in visc 
+a is ur alfa it puts u into (angle of attack mode) 
+! to redo attempt if convergence fails
+aseq to do a sequence of angle of attacks 
+iter to change interation attempts befoe failure 
+pacc creates a 
