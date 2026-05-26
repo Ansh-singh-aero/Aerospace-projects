@@ -1,14 +1,26 @@
-# Problem definition 
+# Mision 
+
 ## A lightweight fixed-wing UAV optimized for efficient operation across multiple low-speed flight regimes.
+
+# Research question 
+
+## “Can a morphing airfoil improve the aerodynamic efficiency of a low-Reynolds-number UAV across takeoff,
+cruise, and landing flight regimes compared to a fixed airfoil configuration?”
+
+
 # Mission requirements 
 
+The fundamental issue of fixed Airfoils 
 
 | Flight Phase | Desired Airfoil Behaviour | 
 |----------|----------|
-| Row 1A   | Row 1B   | 
-| Row 2A   | Row 2B   | 
-| Row 1A   | Row 1B   | 
-| Row 2A   | Row 2B   | 
+| Takeoff  | High lift                  | 
+| Cruise   | High efficiency            | 
+| Landing  | Controlllable near stall   | 
+
+a fixed airfoil cannot be suited for all 3 at the same time as they require fundamentally different properties. 
+
+this is where a morphing wing may be quite useful for us. 
 
 # Design Objective 
 # Methodology 
