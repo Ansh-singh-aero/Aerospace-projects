@@ -1,1 +1,19 @@
+# Problem definition 
+## A lightweight fixed-wing UAV optimized for efficient operation across multiple low-speed flight regimes.
+# Mission requirements 
+
+
+| Flight Phase | Desired Airfoil Behaviour | 
+|----------|----------|
+| Row 1A   | Row 1B   | 
+| Row 2A   | Row 2B   | 
+| Row 1A   | Row 1B   | 
+| Row 2A   | Row 2B   | 
+
+# Design Objective 
+# Methodology 
+# Results 
+# Analysis 
+# Tradeoffs
+# Conclusion 
 
