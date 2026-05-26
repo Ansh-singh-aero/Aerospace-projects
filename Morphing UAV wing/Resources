@@ -42,3 +42,11 @@ a is ur alfa it puts u into (angle of attack mode)
 aseq to do a sequence of angle of attacks 
 iter to change interation attempts befoe failure 
 pacc creates a 
+load xyz.dat -> loads a custom airfoil 
+
+when loading a custom airfoil its im pto keep the dat file inthe same folder as xfoil itself, furthermore hte data pooitns shud alwasy start form 
+top of trailing edge, work its way left to the leading egde , then around the bottom to the right back to the bottom of the trailing edge. always
+
+## modifications 
+flap command ( most useful) gdes menu 
+
