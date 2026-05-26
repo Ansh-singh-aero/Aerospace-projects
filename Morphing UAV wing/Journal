@@ -22,4 +22,17 @@ pxplot ios for pressure coeff pltos, boundary layer visualisttion. going to star
 ## entry 3 (monday 25th may 2026 1:55pm) 
 
 i have learned how to run a sequence of angle of attacks on a naca profile in a viscous environment and extract the Cl and Cd etc for said profile,
-next goal for today is to comapre with other naca profils
+next goal for today is to comapre with other naca profiles
+
+
+## entry 4 ( tuesday 26th may 2026 11:53pm) 
+
+i have compiled the sequence from -5 to 15 aoa for 4 profiles, that is the 
+
+1. 0012
+2. 2412
+3. 4412
+4. S1223
+5. Sd7037
+
+ and the plan is to put the tablea nd the actual graphic from xfoil itself be put into the data&images folder perhaps.
